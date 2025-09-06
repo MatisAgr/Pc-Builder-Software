@@ -1,0 +1,273 @@
+{"QR":[
+    {
+        "tag": "salutation",  
+        "questions": ["Salut","Coucou","Il y a quelqu'un ?","Bonjour","Hey","Hello","Qui es-tu ?","Salutation","yo","wesh","cc","ihi",":3"],
+        "answers":"Salut, je suis l'Assistant personnel de PBS, Jeff. En quoi puis-je vous aider ?"
+    },
+
+    {
+        "tag": "aurevoir",
+        "questions": ["Bye","Au revoir","A bientot","A la prochaine","A le revoyure","A plus !"],
+        "answers": ["A bientot !","A la prochaine","Bonne journée !","Ce fut un plaisir, au revoir"]
+    },
+
+    {
+        "tag":"sante",
+        "questions":["comment vas-tu ?","tu vas bien ?","La Forme ?","sa va","sa va ?","sa va ","ça va ?","ça va","ça va ","sava"],
+        "answers":"Ui, je vais bien ihihi :3"
+    },
+
+    {
+        "tag": "merci",
+        "questions": ["Merci !","Ok merci","merci au revoir","cimer","merci","merci ","cimer bg"],
+        "answers": ["De rien","Quand vous voulez !","Ne me remerciez pas, je suis fait pour ca !"]
+    },
+
+    {
+        "tag": "options",
+        "questions": ["Que sait tu faire ?","A quoi sert-tu ?","Peux tu m'aider ?","J'ai besoin d'aide","Que peux tu faire ?","Que fais tu ?","A quoi tu sert","Tu fais quoi ?","Que sais tu faire ?"],
+        "answers":"Et bien c'est très simple, mon but est de t'aider à travers ton utilisation de PBS. Dès que tu as une question sur ce logiciel, viens vers moi, il est très probable que j'ai la réponse !"
+    },
+
+    {
+        "tag": "noanswer",
+        "questions": [""],
+        "answers": "Je n'ai pas compris, pouvez-vous répéter ?"
+    },
+
+    {
+        "tag":"os",
+        "questions":["Quel est mon os ?","os","Peux tu me rappeller quel est mon os ?","J'ai quel os ?","Quel est mon système d'exploitation","Quel est mon d'ex"],
+        "answers":"Votre os est : "
+
+    },
+
+    {
+        "tag":"cpu",
+        "questions":["Quel est mon cpu ?","cpu","Mon cpu","Peux tu me rappeller quel est mon cpu ?","C'est quoi mon cpu","Quel est mon processeur ?","processeur",
+            "Peux tu me rappeller quel est mon processeur ?","C'est quoi mon processeur ?","Mon processeur","Quel est mon proco ?","proco","Peux tu me rappeller quel est mon proco ?",
+            "C'est quoi mon proco ?","Mon proco","j'ai quel cpu","j'ai quel processeur","j'ai quel proco"],
+        "answers":"Votre cpu est : "
+
+    },
+
+    {
+        "tag":"gpu",
+        "questions":["Quel est mon gpu ?","gpu","mon gpu","Peux tu me rappeller quel est mon gpu ?","C'est quoi mon gpu ? ",
+            "Quelle est ma carte graphique ?","carte graphique","Peux tu me rappller quelle est ma carte graphique ?","C'est quoi ma carte graphique ?", "Ma carte graphique",
+            "j'ai quelle gpu","j'ai quelle carte graphique"],
+        "answers":"Votre gpu est : "
+
+    },
+
+    {
+        "tag":"motherboard",
+        "questions":["Quelle est ma CM ?","CM","Ma cm","Peux tu me rappeller quelle est ma CM ?","C'est quoi ma cm ?","Quelle est ma carte mère ?","carte mère",
+            "Peux tu me rappeller quel est ma carte mère ?","C'est quoi ma carte mère ?","Ma carte mère","j'ai quelle cm","j'ai quelle carte mère","mother board","mb","motherboard"],
+        "answers":"Votre carte mère est : "
+
+    },
+
+    {
+        "tag":"ram",
+        "questions":["Quelle est ma ram ?","RAM","mémoire vive","Ma ram","Mes rams","Mes ram","Peux tu me rappeller quelle est ma ram ?","C'est quoi ma ram ?","Quelles sont mes rams ?",
+            "Peux tu me rappeller quelles sont mes ram ?","Quelles sont mes ram ?","j'ai quelle ram","j'ai quelle mémoire vive"],
+        "answers":"Vos ram sont : "
+    }, 
+    {
+        "tag":"diskdrive",
+        "questions":["Quel est mon disque dur ?","disque dur","hdd","ssd","disques durs","Mon disque dur","Mes disques durs","Peux tu me rappeller quel est mon disque dur ?",
+            "C'est quoi mon disque durs?","Quels sont mes disques ?","Peux tu me rappeller quelles sont mes disques durs ?","Quelles sont mes disques durs ?",
+            "Peux tu me rappeller quelles sont mes disques durs ?","Quels sont mes disques ?","Peux tu me rappeller quelles sont mes disques ?","Peux tu me rappeller quelles sont mes disques ?",
+            "Quels sont mon hdd ?","Peux tu me rappeller quel est mon hdd ?","Quel est mon hdd ?","Peux tu me rappeller quel est mon hdd ?", "j'ai quel hdd", "j'ai quel disque dur","j'ai quel hhds",
+            "j'ai quel disques durs"],       
+        "answers":"Vos disques durs sont : "
+    },
+
+    {
+        "tag":"insulte",
+        "questions":["Nul","Merde","Looser","Bouffon","Tu sert à rien","Tu ne sert à rien","Tu sers à rien","Tu ne sers à rien"],
+        "answers":"Je ne vous permets pas ! Je fais de mon mieux pour vous aider !"
+    },
+
+    {
+        "tag":"alphabet",
+        "questions":["abcdefghijklmnopqrstuvwxyz"],
+        "answers":"Bravo, tu connais ton alphabet, tu peux passer en CP maintenant !"
+    },
+
+    {
+        "tag": "ModifierPc",
+        "questions": ["je veux modifier mon pc","Peux-tu m'aider à modifier mon pc ?","Modifié mon pc","Modifier pc","Modifié pc","Je veux changer de composant","Modifier mon pc",
+            "Changer mes composants","Changer mon pc","Modifier PC","jveut changer","changer","changer pc","changer composant","changer "],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"NouveauPc",
+        "questions" : ["je veux créer un pc","je veux me créer un pc","Je veux me faire un nouveau pc","créé pc","créer pc","Nouveau PC","Je veux du neuf","Comment faire un nouveau pc ?",
+            "Comment je peux faire un nouveau pc ?","Faire un nouveau pc","Créer un nouveau PC"],
+        "answers" : "Très bien, je te redirige vers la page adéquate !"
+
+    },
+    
+    {
+        "tag":"AutoPc",
+        "questions":["Fais moi un pc !","config auto","Auto pc","Faire un pc automatiquement","Faire un pc auto","Fais moi une config"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"osNouveauPc",
+        "questions":["Systèmes d'exploitation","oss","montre moi les os","montre moi les oss","montre moi les Systèmes d'exploitation","montre moi les Systèmes d'exploitations",
+            "montre moi les Système d'exploitation","Systèmes d'exploitations","Systèmes d'exploitation","montre moi tous les os","montre moi tous les oss","montre moi tous les systèmes d'exploitations",
+            "montre moi tous les système d'exploitation","montre moi tous les système d'exploitations","montre moi tous les systèmes d'exploitation"],
+        "answers":"Je vous ramène vers la page d'achat"
+    },
+
+    {
+        "tag":"osModifPc",
+        "questions":["Je veux modifier mon système d'exploitation"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"cpuNouveauPc",
+        "questions":["Processeurs","montre moi les cpus","montre moi les cpu","montre moi les proco","montre moi les procos","montre moi les preocesseurs","montre moi les preocesseur",
+            "montre moi tous les proco","montre moi tous les Processeurs","montre moi tous les procos","montre moi tous les Processeur"],
+        "answers":"Je vous ramène vers la page d'achat"
+
+    },
+
+    {
+        "tag":"cpuModifPc",
+        "questions":["Je veux modifier mon processeur","Je veux modifier mon cpu","Je veux modifier mon proco","modifier mon proco","modifier mon cpu","modifier mon processeur",
+            "Je veux modifier la processeur","Je veux modifier la cpu","Je veux modifier le proco","modifier le proco","modifier le cpu","modifier le processeur"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"gpuNouveauPc",
+        "questions":["Cartes graphiques","montre moi les cg","montre moi les cgs","montre moi les cartes graphiques","montre moi les carte graphique","montre moi toutes les cg",
+            "montre moi toute les cg","monte moi toutes les cartes graphique","montre moi toute les cartes graphiques","montre moi toutes les carte graphiques","montre moi toute les carte graphique"],
+        "answers":"Je vous ramène vers la page d'achat"
+    },
+
+    {
+        "tag":"gpuModifPc",
+        "questions":["Je veux modifier ma carte graphique","Je veux modifier ma cg","modif cg","cg modif","modification cg","cg modification","modif carte graphique","carte graphique modif",
+            "modification carte graphique","carte graphique modification","modif cartes graphiques","carte graphiques modif","modification carte graphiques","carte graphiques modification",
+            "modif carte graphiques","carte graphiques modif","modification cartes graphiques","cartes graphiques modification","modifier cg","modifier cg","modifier carte graphiques",
+            "modifier disques durs","modifié hdd","modifie disque dur","modifie cartes graphiques","modifie cartes graphiques"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"mbNouveauPc",
+        "questions":["Cartes Mères","montre moi les cartes mères","montre moi les cm","montre moi les cms","montre moi toutes les cartes mères","montre moi toute les cartes mères",
+            "montre moi toute les carte mère","montre moi toutes les cm","montre moi toute les cms","montre moi toute les cm"],
+        "answers":"Je vous ramène vers la page d'achat"
+
+    },
+
+    {
+        "tag":"mbModifPc",
+        "questions":["Je veux modifier ma carte mère","Je veux modifier ma cm","changer ma carte mère","changer ma cm","modifier la carte mère","changer la cm","Je veux modifier ma carte mère",
+            "modifier la carte mère","Je veux modifier la motherboard","modifier la mb","changer la motherboard","changer la mb","Je veux modifier ma motherboard","Je veux modifier ma mb",
+            "changer ma motherboard","changer ma mb","modifier la motherboard","changer la mb","Je veux modifier ma motherboard","modifier la motherboard","Je veux modifier la motherboard","modifier la mb",
+            "changer la motherboard","changer la mb"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"ramNouveauPc",
+        "questions":["RAMs","Memoires Vives","montre moi les rams","montre moi les ram","montre moi les mémoires vives","montre moi les mémoire vive","montre moi toutes les rams","montre moi toutes les ram",
+            "montre moi toute les ram","montre moi toute les rams","montre moi toutes les Memoires Vives","montre moi toute les Memoires Vives","montre moi toute les Memoire Vive",
+            "montre moi toutes les Memoire Vive","Memoire Vive","montre moi la rams","montre moi la ram","montre moi la mémoires vives","montre moi la mémoire vive","montre moi toutes la rams",
+            "montre moi toutes la ram","montre moi toute la ram","montre moi toute la rams","montre moi toutes la Memoires Vives","montre moi toute la Memoires Vives","montre moi toute la Memoire Vive",
+            "montre moi toutes la Memoire Vive"],
+        "answers":"Je vous ramène vers la page d'achat"
+
+    },
+
+    {
+        "tag":"ramModifPc",
+        "questions":["Je veux modifier mes rams","modifier mes rams","changer mes rams","changer mes ram","Je veux modifier les rams","modifier les rams","changer les rams","changer les ram",
+            "Je veux modifier ma ram","modifier ma ram","changer ma ram","changer ma rams","Je veux modifier la rams","modifier la rams","changer la rams","changer la ram"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+  {
+        "tag":"ssdNouveauPc",
+        "questions":["SSDs","montre moi les ssds","montre moi les ssd","new ssd","nouveau ssd","nouveaux ssd","liste ssd","new ssds","nouveau ssds","nouveaux ssds","liste ssds","new sdd","nouveau sdd",
+            "nouveaux sdd","liste sdd","new sdds","nouveau sdds","nouveaux sdds","liste sdds"],
+        "answers":"Je vous ramène vers la page d'achat"
+
+    },
+
+    {
+        "tag":"ssdModifPc",
+        "questions":["Je veux modifier mon ssd","montre moi les ssd","modif ssd","ssd modif","modification ssd","ssd modification","modifier ssd","modifié ssd","modif mon ssd","modif mes ssd","modification de mon ssd"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+
+    {
+        "tag":"hddNouveauPc",
+        "questions":["HDDs","montre moi les hdd","new hdd","nouveau hdd","liste hdd","new hdds","nouveau hdds","liste hdds","nouveaux hdd","nouveaux hdds"],
+        "answers":"Je vous ramène vers la page d'achat"
+
+    },
+
+ {
+        "tag":"hddModifPc",
+        "questions":["Je veux modifier mon hdd","modif hdd","hdd modif","modification hdd","hdd modification","modif disque dur","disque dur modif","modification disque dur","disque dur modification",
+            "modif disque durs","disque durs modif","modification disque durs","disque durs modification","modif disques durs","disques durs modif","modification disques durs","disques durs modification",
+            "modifier hdd","modifier disque dur","modifier disque durs","modifier disques durs","modifié hdd","modifie disque dur","modifie disque durs","modifie disques durs","je veux changer mon hdd",
+            "je veux changer mes hdd","je veux changer mes hdds","je veut changer mon hdd","je veut changer mes hdd","je veut changer mes hdds","je veux change mon hdd","je veux change mes hdd",
+            "je veux change mes hdds","je veut change mon hdd","je veut change mes hdd","je veut change mes hdds","je veux changer mon hdd","je veux changer mes hdd","je veux changer mes hdds",
+            "je veut changer mon hdd","je veut changer mes hdd","je veut changer mes hdds","je veux change mon hdd","je veux change mes hdd","je veux change mes hdds","je veut change mon hdd",
+            "je veut change mes hdd","je veut change mes hdds","je veux change mon disque dur","je veux change mes disque dur","je veux change mes disque dur","je veut change mon disque dur",
+            "je veut change mes disque dur","je veut change mes disque dur","je veux changer mon disque dur","je veux changer mes disque dur","je veux changer mes disque dur",
+            "je veut changer mon disque dur","je veut changer mes disque dur","je veut changer mes disque dur","je veux change mon disque durs","je veux change mes disque durs",
+            "je veux change mes disque durs","je veut change mon disque durs","je veut change mes disque durs","je veut change mes disque durs","je veux changer mon disque durs",
+            "je veux changer mes disque durs","je veux changer mes disque durs","je veut changer mon disque durs","je veut changer mes disque durs","je veut changer mes disque durs",
+            "je veux change mon disques durs","je veux change mes disques durs","je veux change mes disques durs","je veut change mon disques durs","je veut change mes disques durs",
+            "je veut change mes disques durs","je veux changer mon disques durs","je veux changer mes disques durs","je veux changer mes disques durs","je veut changer mon disques durs",
+            "je veut changer mes disques durs","je veut changer mes disques durs","je veux modifier mon hdd","je veux modifier mes hdd","je veux modifier mes hdds","je veut modifier mon hdd",
+            "je veut modifier mes hdd","je veut modifier mes hdds","je veux modifie mon hdd","je veux modifie mes hdd","je veux modifie mes hdds","je veut modifie mon hdd","je veut modifie mes hdd",
+            "je veut modifie mes hdds","je veux modifier mon hdd","je veux modifier mes hdd","je veux modifier mes hdds","je veut modifier mon hdd","je veut modifier mes hdd","je veut modifier mes hdds",
+            "je veux modifie mon hdd","je veux modifie mes hdd","je veux modifie mes hdds","je veut modifie mon hdd","je veut modifie mes hdd","je veut modifie mes hdds","je veux modifie mon disque dur",
+            "je veux modifie mes disque dur","je veux modifie mes disque dur","je veut modifie mon disque dur","je veut modifie mes disque dur","je veut modifie mes disque dur",
+            "je veux modifier mon disque dur","je veux modifier mes disque dur","je veux modifier mes disque dur","je veut modifier mon disque dur","je veut modifier mes disque dur",
+            "je veut modifier mes disque dur","je veux modifie mon disque durs","je veux modifie mes disque durs","je veux modifie mes disque durs","je veut modifie mon disque durs",
+            "je veut modifie mes disque durs","je veut modifie mes disque durs","je veux modifier mon disque durs","je veux modifier mes disque durs","je veux modifier mes disque durs",
+            "je veut modifier mon disque durs","je veut modifier mes disque durs","je veut modifier mes disque durs","je veux modifie mon disques durs","je veux modifie mes disques durs",
+            "je veux modifie mes disques durs","je veut modifie mon disques durs","je veut modifie mes disques durs","je veut modifie mes disques durs","je veux modifier mon disques durs",
+            "je veux modifier mes disques durs","je veux modifier mes disques durs","je veut modifier mon disques durs","je veut modifier mes disques durs","je veut modifier mes disques durs",
+            "modifie mon hdd","modifie mon hdds","modifie mon disque dur","modifie mon disque durs","modifie mon disques durs","modifie mes hdd","modifie mes hdds","modifie mes disque dur",
+            "modifie mes disque durs","modifie mes disques durs","modif mon hdd","modif mon hdds","modif mon disque dur","modif mon disque durs","modif mon disques durs","modif mes hdd","modif mes hdds",
+            "modif mes disque dur","modif mes disque durs","modif mes disques durs","changer mon hdd","changer les hdd"],
+        "answers":"Très bien, je te redirige vers la page adéquate !"
+    },
+    
+   {
+        "tag":"pi",
+        "questions":["pi","pi ?","valeur pi","valeur pi ?"],
+        "answers":"pi est égale à 3,14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709384460955058223172535940812848111745028410270193852110555964462294895493038196442881097566593344612847564823378678316527120190914564856692346034861045432664821339360726024914127372458700660631558817488152092096282925409171536436789259036001133053054882046652138414695194151160943305727036575959195309218611738193261179310511854807446237996274956735188575272489122793818301194912983367336244065664308602139494639522473719070217986094370277053921717629317675238467481846766940513200056812714526356082778577134275778960917363717872146844090122495343014654958537105079227968925892354201995611212902196086403441815981362977477130996051870721134999999837297804995105973173281609631859502445945534690830264252230825334468503526193118817101000313783875288658753320838142061717766914730359825349042875546873115956286388235378759375195778185778053217122680661300192787661119590921642019893809525720106548586327886593615338182796823030195203530185296899577362259941389124972177528347913151557485724245415069595082953311686172785588907509838175463746493931925506040092770167113900984882401285836160356370766010471018194295559619894676783744944825537977472684710404753464620804668425906949129331367702898915210475216205696602405803815019351125338243003558764024749647326391419927260426992279678235478163600934172164121992458631503028618297455570674983850549458858692699569092721079750930295532116534498720275596023648066549911988183479775356636980742654252786255181841757467289097777279380008164706001614524919217321721477235014144197356854816136115735255213347574184946843852332390739414333454776241686251898356948556209921922218427255025425688767179049460165346680498862723279178608578438382796797668145410095388378636095068006422512520511739298489608412848862694560424196528502221066118630674427862203919494504712371378696095636437191728746776465757396241389086583264599581339047802759009946576407895126946839835259570982582262052248940772671947826848260147699090264013639443745530506820349625245174939965143142980919065925093722169646151570985838741059788595977297549893016175392846813826868386894277415599185592524595395943104997252468084598727364469584865383673622262609912460805124388439045124413654976278079771569143599770012961608944169486855584840635342207222582848864815845602850..."
+    },
+
+    {
+        "tag":"Mothix",
+        "questions":["Mothix","Mothix_","Adrien"],
+        "answers":"Il nous a un peu aidé, coucou les juges :) (Gros Bisous Jeff - Mothix(Adrien))"
+
+    },
+
+    {
+        "tag":"credits",
+        "questions":["credit","credits"],
+        "answers":"Application programmé par PBS Team (Julien / Marius / Matis / Pierre-Louis)"
+    }
+
+]
+}

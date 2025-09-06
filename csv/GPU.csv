@@ -1,0 +1,502 @@
+Type,Part Number,Brand,Model,Rank,Benchmark,Samples,URL,Price
+GPU,,Nvidia,Quadro RTX 8000,6,177,220,https://gpu.userbenchmark.com/SpeedTest/762332/NVIDIA-Quadro-RTX-8000,8120
+GPU,,Nvidia,Quadro GP100,28,107,104,https://gpu.userbenchmark.com/SpeedTest/279788/NVIDIA-Quadro-GP100,8050
+GPU,,Nvidia,Quadro RTX A6000,2,207,1,https://gpu.userbenchmark.com/SpeedTest/1300600/NVIDIA-Quadro-RTX-A6000,6500
+GPU,,Nvidia,Quadro RTX 6000,8,173,581,https://gpu.userbenchmark.com/SpeedTest/736712/NVIDIA-Quadro-RTX-6000,4696
+GPU,,Nvidia,Quadro P6000,19,130,571,https://gpu.userbenchmark.com/SpeedTest/187394/NVIDIA-Quadro-P6000,4300
+GPU,,Nvidia,Titan V,10,161,736,https://gpu.userbenchmark.com/SpeedTest/395529/NVIDIA-TITAN-V,3100
+GPU,,Nvidia,RTX 3090,1,231,47180,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,2699
+GPU,,Nvidia,Quadro P5000,42,91.1,5941,https://gpu.userbenchmark.com/SpeedTest/197331/NVIDIA-Quadro-P5000,2343
+GPU,,Nvidia,Quadro RTX 5000,15,135,1099,https://gpu.userbenchmark.com/SpeedTest/712800/NVIDIA-Quadro-RTX-5000,2176
+GPU,,Nvidia,Titan RTX,5,189,1627,https://gpu.userbenchmark.com/SpeedTest/664199/NVIDIA-TITAN-RTX,2150
+GPU,900-1G150-2500-000,Nvidia, Titan RTX 24GB,5,189,1627,https://gpu.userbenchmark.com/SpeedTest/664199/NVIDIA-TITAN-RTX,2150
+GPU,,AMD,RX 6900-XT,4,190,7831,https://gpu.userbenchmark.com/AMD-RX-6900-XT/Rating/4091,1844
+GPU,,Nvidia,RTX 3080,3,205,130095,https://gpu.userbenchmark.com/Nvidia-RTX-3080/Rating/4080,1359
+GPU,,Nvidia,Titan Xp,12,144,5420,https://gpu.userbenchmark.com/SpeedTest/265423/NVIDIA-TITAN-Xp,1349
+GPU,,Nvidia,GTX Titan X,56,77.1,11211,https://gpu.userbenchmark.com/Nvidia-GTX-Titan-X/Rating/3282,1261
+GPU,12G-P4-2992-KR,EVGA, GTX TITAN X 12GB SC,56,77.1,11211,https://gpu.userbenchmark.com/Nvidia-GTX-Titan-X/Rating/3282,1261
+GPU,GTXTITANX-12GD5,Asus, GTX TITAN X 12GB,56,77.1,11211,https://gpu.userbenchmark.com/Nvidia-GTX-Titan-X/Rating/3282,1261
+GPU,12G-P4-2990-KR,EVGA, GTX TITAN X 12GB,56,77.1,11211,https://gpu.userbenchmark.com/Nvidia-GTX-Titan-X/Rating/3282,1261
+GPU,,Nvidia,Titan X Pascal,17,134,6656,https://gpu.userbenchmark.com/SpeedTest/158352/NVIDIA-TITAN-X-Pascal,1236
+GPU,900-1G611-2500-000,Nvidia,Titan X Pascal 12GB,17,134,6656,https://gpu.userbenchmark.com/SpeedTest/158352/NVIDIA-TITAN-X-Pascal,1236
+GPU,,Nvidia,RTX 2080-Ti,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,ZT-T20810D-10P,Zotac, RTX 2080 Ti 11GB GAMING AMP SPECTRA RGB,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,DUAL-RTX2080TI-O11G,Asus, RTX 2080 Ti 11GB Dual-fan OC,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,RTX 2080 Ti GAMING X TRIO,MSI, RTX 2080 Ti 11GB Gaming,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,GV-N208TGAMING OC-11GC,Gigabyte, RTX 2080 Ti 11GB Gaming OC,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,ROG-STRIX-RTX2080TI-O11G-GAMING,Asus, RTX 2080 Ti 11GB ROG Strix,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,11G-P4-2487-KR,EVGA, RTX 2080 Ti 11GB FTW3 Ultra Gaming,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,11G-P4-2281-KR,EVGA, RTX 2080 Ti 11GB Black,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,GV-N208TAORUS X-11GC,Gigabyte, RTX 2080 Ti 11GB Xtreme,7,175,269605,https://gpu.userbenchmark.com/Nvidia-RTX-2080-Ti/Rating/4027,1199
+GPU,,Nvidia,GTX Titan,91,47.4,5310,https://gpu.userbenchmark.com/Nvidia-GTX-Titan/Rating/2191,936
+GPU,,Nvidia,Quadro RTX 4000,39,95,4148,https://gpu.userbenchmark.com/SpeedTest/716215/NVIDIA-Quadro-RTX-4000,886
+GPU,,AMD,Vega Frontier Edition,43,91.1,1569,https://gpu.userbenchmark.com/AMD-Vega-Frontier-Edition/Rating/3929,860
+GPU,100-506061,AMD,Radeon Vega Frontier Edition Air,43,91.1,1569,https://gpu.userbenchmark.com/AMD-Vega-Frontier-Edition/Rating/3929,860
+GPU,,Nvidia,GTX Titan Black,84,52.6,3055,https://gpu.userbenchmark.com/Nvidia-GTX-Titan-Black/Rating/3158,860
+GPU,,Nvidia,GTX 980-Ti,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,06G-P4-4995-KR,EVGA, GTX 980 Ti 6GB ACX SC+ ACX 2.0+ w/BP,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,06G-P4-4992-KR,EVGA, GTX 980 Ti 6GB SC,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,GTX980TI-6GD5,Asus, GTX 980 Ti 6GB,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,GTX 980TI GAMING 6G,MSI, GTX 980 Ti 6GB Gaming,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,GV-N98TG1 GAMING-6GD,Gigabyte, GTX 980 Ti 6GB GV-N98TG1,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,GV-N98TWF3OC-6GD,Gigabyte, GTX 980 Ti 6GB Windforce 3X OC,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,GTX 980Ti GAMING 6G GOLDEN EDITION,MSI, GTX 980 TI 6GB OC GOLDEN LE,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,06G-P4-0998-KR,EVGA, GTX 980 Ti 6GB Classified Gaming ACX 2.0+,52,80.3,165532,https://gpu.userbenchmark.com/Nvidia-GTX-980-Ti/Rating/3439,857
+GPU,,AMD,Radeon-VII,26,112,10400,https://gpu.userbenchmark.com/AMD-Radeon-VII/Rating/4035,723
+GPU,21291-01-40G,AMD, Radeon VII 16GB,26,112,10400,https://gpu.userbenchmark.com/AMD-Radeon-VII/Rating/4035,723
+GPU,RADEONVII-16G,AMD, Radeon VII 16GB,26,112,10400,https://gpu.userbenchmark.com/AMD-Radeon-VII/Rating/4035,723
+GPU,,Nvidia,RTX 2080S (Super),13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,GV-N208SGAMING OC-8GC,Gigabyte, RTX 2080 Super 8GB Gaming,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,08GP43183KR,EVGA, RTX 2080 Super 8GB XC Ultra,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,RTX 2080 Super Gaming X Trio,MSI, RTX 2080 Super 8GB Gaming X,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,ROG-STRIX-RTX2080S-A8G-Gaming,Asus, RTX 2080 Super 8GB ROG Strix A8G,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,ROG-STRIX-RTX2080S-O8G-Gaming,Asus, RTX 2080 Super 8GB ROG Strix O8G,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,RTX 2080 Super Ventus XS OC,MSI, RTX 2080 Super 8GB Ventus XS OC,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,RTX 2080 SUPER VENTUS OC,MSI, RTX 2080 Super 8GB Ventus OC,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,Gv-N208SWF3OC-8GD,Gigabyte, RTX 2080 Super 8GB Windforce,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,08G-P4-3081-KR,EVGA, RTX 2080 Super 8GB Black Gaming,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,GV-N208SAORUS-8GC,Gigabyte, RTX 2080 Super 8GB Aorus Windforce,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,720
+GPU,,Nvidia,RTX 2080S (Super Mobile),22,122,918,https://gpu.userbenchmark.com/SpeedTest/1188513/NVIDIA-GeForce-RTX-2080-Super,719
+GPU,,AMD,RX Vega-64LC (Liquid Cooled),33,99.6,3289,https://gpu.userbenchmark.com/SpeedTest/353890/Radeon-RX-Vega,649
+GPU,GV-RXVEGA64X W-8GD-B,AMD, RX Vega 64 8GB LC,33,99.6,3289,https://gpu.userbenchmark.com/SpeedTest/353890/Radeon-RX-Vega,649
+GPU,21275-00-40G,AMD, RX Vega 64 8GB LC,33,99.6,3289,https://gpu.userbenchmark.com/SpeedTest/353890/Radeon-RX-Vega,649
+GPU,RX-VEGMXWFXW,AMD, RX Vega 64 8GB LC,33,99.6,3289,https://gpu.userbenchmark.com/SpeedTest/353890/Radeon-RX-Vega,649
+GPU,,Nvidia,GTX 1660S (Super),60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,GTX 1660 Super Ventus XS OC,MSI, GTX 1660 Super 6GB Ventus XS OC,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,GV-N166SOC-6GD,Gigabyte, GTX 1660 Super 6GB OC,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,06G-P4-1068-KR,EVGA, GTX 1660 Super 6GB SC Ultra Gaming,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,ZT-T16620F-10L,Zotac, GTX 1660 Super 6GB Compact,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,GTX 1660 Super Gaming X,MSI, GTX 1660 Super 6GB Gaming X,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,DUAL-GTX1660S-O6G-EVO,Asus, GTX 1660 Super 6GB Dual Evo,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,TUF-GTX1660S-O6G-GAMING,Asus, GTX 1660 Super 6GB TUF Gaming,60,71.1,252267,https://gpu.userbenchmark.com/Nvidia-GTX-1660S-Super/Rating/4056,632
+GPU,,AMD,RX 6800-XT,9,161,10020,https://gpu.userbenchmark.com/AMD-RX-6800-XT/Rating/4089,559
+GPU,,Nvidia,RTX 2070S (Super),24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,08G-P4-3173-KR,EVGA, RTX 2070 Super 8GB SC XC Ultra Gaming,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,GV-N207SGAMING OC-8GC,Gigabyte, RTX 2070 Super 8GB Gaming,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,RTX 2070 SUPER VENTUS OC,MSI, RTX 2070 Super 8GB Ventus,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,GV-N207SWF3OC-8GD,Gigabyte, RTX 2070 Super 8GB 3X Windforce,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,GV-N207SGAMING OC-8GD,Gigabyte, RTX 2070 Super 8GB 3X Gaming,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,RTX 2070 Super GAMING X,MSI, RTX 2070 Super 8GB Gaming X,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,08G-P4-3071-KR,EVGA, RTX 2070 Super 8GB Super Black Gaming,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,DUAL-RTX-2070S-O8G-EVO,Asus, RTX 2070 Super 8GB Dual Evo,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,ZT-T20710E-10M,Zotac, RTX 2070 Super 8GB Mini,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,08G-P4-2072-KR,EVGA, RTX 2070 Super 8GB KO Gaming,24,119,470593,https://gpu.userbenchmark.com/Nvidia-RTX-2070S-Super/Rating/4048,529
+GPU,,AMD,RX 6800,16,134,6526,https://gpu.userbenchmark.com/AMD-RX-6800/Rating/4088,499
+GPU,,Nvidia,RTX 2070,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,GV-N2070GAMING OC-8GC,Gigabyte, RTX 2070 8GB Gaming OC,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,08G-P4-2172-KR,EVGA, RTX 2070 8GB XC Gaming Dual HDB,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,RTX 2070 GAMING Z 8G,MSI, RTX 2070 8GB Gaming Z,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,08G-P4-2173-KR,EVGA, RTX 2070 8GB XC Ultra Gaming,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,ROG-STRIX-RTX2070-O8G-GAMING,Asus, RTX 2070 8GB ROG STRIX,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,RTX 2070 ARMOR 8G OC,MSI, RTX 2070 8GB Armor OC,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,GV-N2070WF3-8GC,Gigabyte, RTX 2070 8GB Windforce,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,08G-P4-1071-KR,EVGA, RTX 2070 8GB Black Gaming,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,ZT-T20700E-10P,Zotac, RTX 2070 8GB Mini,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,DUAL-RTX-2070-8G,Asus, RTX 2070 8GB Dual,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,GeForce RTX 2070 TRI FROZR,MSI, RTX 2070 8GB Tri Frozr,29,106,357471,https://gpu.userbenchmark.com/Nvidia-RTX-2070/Rating/4029,479
+GPU,,AMD,RX Vega-56,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,21276-00-20G,AMD, RX Vega 56 8GB,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,RX-VEGMLBFX6,AMD, RX Vega 56 8GB,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,GV-RXVEGA56-8GD-B,AMD, RX Vega 56 8GB,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,RX Vega 56 Air Boost 8G OC,MSI, RX Vega 56 8GB Gaming Air Boost,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,GV-RXVEGA56GAMING OC-8GD,Gigabyte, RX Vega 56 8GB OC,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,11276-02-40G,Sapphire, RX Vega 56 8GB Pulse,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,90-GA0900-00UANF,ASRock,ASRock RX Vega 56 8GB Phantom Gaming X,51,82.8,71577,https://gpu.userbenchmark.com/AMD-RX-Vega-56/Rating/3938,478
+GPU,,Nvidia,RTX 2060S (Super),34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,GV-N206SGAMING OC-8GC,Gigabyte, RTX 2060 Super 8GB Gaming,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,08G-P4-3163-KR,EVGA, RTX 2060 Super 8GB SC XC Ultra Gaming,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,RTX 2060 Super Gaming X,MSI, RTX 2060 Super 8GB Gaming X,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,GV-N206SWF2OC-8GD,Gigabyte, RTX 2060 Super 8GB Windforce OC,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,GV-N206SAORUS-8GC,Gigabyte, RTX 2060 Super 8GB Aorus,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,08G-P4-3062-KR,EVGA, RTX 2060 8GB Super SC Black,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,08G-P4-3067,EVGA, RTX 2060 Super 8GB SC Ultra Gaming,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,ZT-T20610E-10M,Zotac, RTX 2060 Super 8GB Mini Gaming,34,99.5,229452,https://gpu.userbenchmark.com/Nvidia-RTX-2060S-Super/Rating/4049,473
+GPU,,AMD,RX 5700XT 50th Anniversary,30,106,3464,https://gpu.userbenchmark.com/SpeedTest/845537/AMD-Radeon-RX-5700-XT-50th-Anniversary,449
+GPU,,AMD,RX 5700-XT,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,AXRX 5700XT 8GBD6-M3DH,AMD, RX 5700 XT 8GB,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,21293-01-40G,AMD, RX 5700 XT 8GB,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,RX-57XT8MFD6,AMD, RX 5700 XT 8GB,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,Radeon RX 5700 XT 8G,AMD, RX 5700 XT 8GB Gaming,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,RX5700XT-8G,AMD, RX 5700 XT 8GB,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,GV-R57XT-8GD-B,AMD, RX 5700 XT 8GB,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,11293-01-20G,Sapphire, RX 5700 XT 8GB Pulse,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,AXRX 5700XT 8GBD6-3DHE/OC,PowerColor, RX 5700 XT 8GB Red Devil,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,AXRX 5700XT 8GBD6-3DHR/OC,PowerColor, RX 5700 XT 8GB Red Dragon,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,11293-03-40G,Sapphire, RX 5700 XT 8GB Nitro+,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,11293-01-20G,Sapphire, RX 5700 XT 8GB Pulse,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,GV-R57XTGAMING OC-8GD,Gigabyte, RX 5700 XT 8GB Gaming OC,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,Rx-57XT8TBD8,XFX, RX 5700 XT 8GB Thicc III Ultra,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,RX-57XT8TFD8,XFX, RX 5700 XT 8GB Thicc III,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,TUF-3-RX5700XT-O8G-EVO-GAMING,Asus, RX 5700 XT 8GB TUF Gaming 3,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,ROG-STRIX-RX5700XT-O8G-GAMING,Asus, RX 5700 XT 8GB ROG Strix ,32,105,324935,https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045,435
+GPU,,Nvidia,RTX 3070,11,153,181519,https://gpu.userbenchmark.com/Nvidia-RTX-3070/Rating/4083,430
+GPU,,Nvidia,GTX 980,69,60.7,132239,https://gpu.userbenchmark.com/Nvidia-GTX-980/Rating/2576,430
+GPU,04G-P4-2983-KR,EVGA, GTX 980 4GB SC ACX 2.0,69,60.7,132239,https://gpu.userbenchmark.com/Nvidia-GTX-980/Rating/2576,430
+GPU,GTX 980 GAMING 4G,MSI, GTX 980 4GB GAMING,69,60.7,132239,https://gpu.userbenchmark.com/Nvidia-GTX-980/Rating/2576,430
+GPU,STRIX-GTX980-DC2OC-4GD5,Asus, GTX 980 4GB STRIX OC,69,60.7,132239,https://gpu.userbenchmark.com/Nvidia-GTX-980/Rating/2576,430
+GPU,,AMD,RX 6700-XT,23,119,5312,https://gpu.userbenchmark.com/AMD-RX-6700-XT/Rating/4109,413
+GPU,,AMD,RX 5700,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,AXRX 5700 8GBD6-M3DH,AMD, RX 5700 8GB,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,21294-01-20G,AMD, RX 5700 8GB,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,RX-57XL8MFG6,AMD, RX 5700 8GB,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,R5700XT8,AMD, RX 5700 8GB,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,11294-01-20G,Sapphire, RX 5700 8GB Pulse,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,R5700MHC,MSI, RX 5700 8GB Mech,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,11294-01-20G,Sapphire, RX 5700 8GB Pulse,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,AXRX 5700 8GBD6-3DHE/OC,PowerColor, RX 5700 8GB Red Devil,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,RX-57XL8LBD6,XFX, RX 5700 8GB DD Ultra,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,GV-R57GAMING OC-8GD,Gigabyte, RX 5700 8GB Gaming OC,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,RX 5700 Evoke OC,MSI, RX 5700 8GB Evoke OC,47,87.7,57452,https://gpu.userbenchmark.com/AMD-RX-5700/Rating/4046,413
+GPU,,Nvidia,RTX 2080,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,RTX 2080 GAMING X TRIO,MSI, RTX 2080 8GB Gaming X Trio,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,GV-N2080WF3OC-8GC,Gigabyte, RTX 2080 8GB Windforce OC,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,DUAL-RTX2080-O8G,Asus, RTX 2080 8GB Dual OC,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,GV-N2080GAMING OC-8GC,Gigabyte, RTX 2080 8GB Gaming OC,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,08G-P4-2183-KR,EVGA, RTX 2080 8GB XC Ultra Gaming,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,ROG-STRIX-RTX2080-O8G-GAMING,Asus, RTX 2080 8GB ROG STRIX,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,08G-P4-2182-KR,EVGA, RTX 2080 8GB XC Gaming,20,130,233284,https://gpu.userbenchmark.com/Nvidia-RTX-2080/Rating/4026,400
+GPU,,AMD,R9 Fury-X,65,67,7037,https://gpu.userbenchmark.com/AMD-R9-Fury-X/Rating/3498,384
+GPU,R9-FURY-4QFA,AMD, R9 FURY X 4GB,65,67,7037,https://gpu.userbenchmark.com/AMD-R9-Fury-X/Rating/3498,384
+GPU,21246-00-40G,AMD, R9 Fury X 4GB ,65,67,7037,https://gpu.userbenchmark.com/AMD-R9-Fury-X/Rating/3498,384
+GPU,GV-R9FURYX-4GD-B,AMD, R9 Fury X 4GB,65,67,7037,https://gpu.userbenchmark.com/AMD-R9-Fury-X/Rating/3498,384
+GPU,08G-P4-2083-KR,EVGA, RTX 2080 Super 8GB KO Dual,13,138,183828,https://gpu.userbenchmark.com/Nvidia-RTX-2080S-Super/Rating/4050,357
+GPU,,Nvidia,GTX 1080-Ti,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,11G-P4-6390-KR,EVGA, GTX 1080 Ti 11GB Founders Edition,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,GV-N108TD5X-B,Nvidia, GTX 1080 Ti 11GB Founders Edition,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,GTX 1080 Ti Founders Edition,Nvidia, GTX 1080 Ti 11GB Founders Edition,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,ZT-P10810A-10P,Nvidia, GTX 1080 Ti 11GB Founders Edition,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,GTX1080TI-FE,Asus, GTX 1080 Ti 11GB Founders Edition,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,ROG-STRIX-GTX1080TI-O11G-GAMING,Asus, GTX 1080 Ti 11GB Gaming OC,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,GTX 1080 TI GAMING X,MSI, GTX 1080 TI 11GB Gaming X,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,GV-N108TAORUS-11GD,Gigabyte, GTX 1080 Ti 11GB AORUS,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,11G-P4-6696-KR,EVGA, GTX 1080 Ti 11GB FTW3 Gaming,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,ROG-STRIX-GTX1080TI-O11G-GAMING,Asus, GTX 1080 Ti 11GB ROG Strix OC,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,11G-P4-6393-KR,EVGA, GTX 1080 Ti 11GB SC Black,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,ROG-STRIX-GTX1080TI-11G-GAMING,Asus, GTX 1080 Ti 11GB ROG Strix,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,11G-P4-6593-KR,EVGA, GTX 1080 Ti 11GB SC2 Gaming,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,GV-N108TAORUS X-11GD,Gigabyte, GTX 1080 Ti 11GB AORUS Xtreme,14,136,718166,https://gpu.userbenchmark.com/Nvidia-GTX-1080-Ti/Rating/3918,357
+GPU,,Nvidia,GTX 780-Ti,78,55.5,27716,https://gpu.userbenchmark.com/Nvidia-GTX-780-Ti/Rating/2165,353
+GPU,,AMD,R9 390X,79,55.4,22034,https://gpu.userbenchmark.com/AMD-R9-390X/Rating/3497,353
+GPU,R9 390X GAMING 8G,MSI, R9 390X 8GB Gaming,79,55.4,22034,https://gpu.userbenchmark.com/AMD-R9-390X/Rating/3497,353
+GPU,11241-00-20G,Sapphire, R9 390X 8GB TRIPLE Tri-X OC,79,55.4,22034,https://gpu.userbenchmark.com/AMD-R9-390X/Rating/3497,353
+GPU,GV-R939XG1 GAMING-8GD,Gigabyte, R9 390X 8GB G1 Gaming,79,55.4,22034,https://gpu.userbenchmark.com/AMD-R9-390X/Rating/3497,353
+GPU,R9-390X-F28M,XFX, R9 390X 8GB Double Dissipation,79,55.4,22034,https://gpu.userbenchmark.com/AMD-R9-390X/Rating/3497,353
+GPU,,Nvidia,RTX 3060-Ti,18,131,53105,https://gpu.userbenchmark.com/Nvidia-RTX-3060-Ti/Rating/4090,344
+GPU,,AMD,R9 290,89,47.5,54729,https://gpu.userbenchmark.com/AMD-R9-290/Rating/2171,343
+GPU,11227-13-20G,Sapphire, R9 290 4GB TRI-X OC,89,47.5,54729,https://gpu.userbenchmark.com/AMD-R9-290/Rating/2171,343
+GPU,R9290AEDFD,XFX, R9 290 4GB Double Dissipation,89,47.5,54729,https://gpu.userbenchmark.com/AMD-R9-290/Rating/2171,343
+GPU,R9290AEDBD,XFX, R9 290 4GB Black Double Dissipation,89,47.5,54729,https://gpu.userbenchmark.com/AMD-R9-290/Rating/2171,343
+GPU,R9 290 GAMING 4G,MSI, R9 290 4GB GAMING,89,47.5,54729,https://gpu.userbenchmark.com/AMD-R9-290/Rating/2171,343
+GPU,11227-04-40G,Sapphire, R9 290 4GB VAPOR-X TRI-X OC,89,47.5,54729,https://gpu.userbenchmark.com/AMD-R9-290/Rating/2171,343
+GPU,,Nvidia,RTX 2060,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,RTX 2060 VENTUS 6G OC,MSI, RTX 2060 6GB Ventus,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,ZT-T20600F-10M,Zotac, RTX 2060 6GB Twin,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,GV-N2060GAMING OC-6GD,Gigabyte, RTX 2060 6GB Gaming OC,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,06G-P4-2167-KR,EVGA, RTX 2060 6GB XC Ultra Gaming,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,GV-N2060WF2OC-6GD,Gigabyte, RTX 2060 6GB Windforce OC,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,RTX 2060 Gaming Z 6G,MSI, RTX 2060 6GB Gaming Z,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,ROG-STRIX-RTX2060-O6G-GAMING,Asus, RTX 2060 6GB ROG STRIX,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,GV-N2060GAMINGOC PRO-6GD,Gigabyte, RTX 2060 6GB Gaming OC Pro ,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,06G-P4-2060-KR,EVGA, RTX 2060 6GB Gaming,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,06G-P4-2068-KR,EVGA, RTX 2060 KO 6GB Ultra Gaming,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,06G-P4-2066-KR,EVGA, RTX 2060 KO 6GB Gaming,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,RTX 2060 VENTUS XS 6G OC,MSI, RTX 2060 6GB Ventus XS,46,88.5,435682,https://gpu.userbenchmark.com/Nvidia-RTX-2060/Rating/4034,340
+GPU,,Nvidia,GTX 970,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,GTX 970 GAMING 4G,MSI, GTX 970 4GB Gaming,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,STRIX-GTX970-DC20C-4GD5,Asus, GTX 970 4GB STRIX OC,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,04G-P4-2974-KR,EVGA, GTX 970 4GB Super Clocked ACX 2.0,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,GV-N970G1 GAMING-4GD,Gigabyte, GTX 970 4GB G1 Gaming,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,GV-N970WF3OC-4GD,Gigabyte, GTX 970 4GB OC Windforce,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,04G-P4-3975-KR,EVGA, GTX 970 4GB SSC ACX 2.0+,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,TURBO-GTX970-OC-4GD5,Asus, GTX 970 4GB Turbo OC,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,04G-P4-3978-KR,EVGA, GTX 970 4GB FTW+ GAMING ACX 2.0+ w/BP,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,ZT-90101-10P,Zotac, GTX 970 4GB Graphics Card,87,50.3,674698,https://gpu.userbenchmark.com/Nvidia-GTX-970/Rating/2577,340
+GPU,,AMD,RX 5600-XT,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,11296-01-20G,Sapphire, RX 5600 XT 6GB Pulse,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,AXRX 5600XT 6GBD6-3DHE/OC,PowerColor, RX 5600 XT 6GB Red Devil,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,RX-56XT6DFD6,XFX, RX 5600 XT 6GB Thicc II PRO,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,RX-56XT6DF46,XFX, RX 5600 XT 6GB Thicc II PRO,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,GV-R56XTGAMING OC-6GD,Gigabyte, RX 5600 XT 6GB Gaming OC,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,GV-R56XTWF2OC-6GD,Gigabyte, RX 5600 XT 6GB Windforce OC,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,Radeon RX 5600 XT GAMING MX,MSI, RX 5600 XT 6GB Gaming MX,48,87.3,71098,https://gpu.userbenchmark.com/AMD-RX-5600-XT/Rating/4062,338
+GPU,,AMD,RX Vega-64,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,GV-RXVEGA64-8GD-B,AMD, RX Vega 64 8GB,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,RX-VEGMTBFX6,AMD, RX Vega 64 8GB,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,21275-02-20G,AMD, RX Vega 64 8GB,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,ROG-STRIX-RXVEGA64-O8G-GAMING,Asus, RX Vega 64 8GB ROG Strix Gaming,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,GV-RXVEGA64GAMING OC-8GD,Gigabyte, RX Vega 64 8GB Gaming OC,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,RX VEGA 64 AIR BOOST 8G OC,MSI, RX Vega 64 8GB Gaming Air Boost,41,93.2,70549,https://gpu.userbenchmark.com/AMD-RX-Vega-64/Rating/3933,329
+GPU,,Nvidia,GTX 1660-Ti,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,GTX 1660 TI VENTUS XS 6G OC,MSI, GTX 1660 Ti 6GB Ventus XS OC,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,06G-P4-1261-KR,EVGA, GTX 1660 Ti 6GB Black Gaming,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,GTX 1660 TI GAMING X 6G,MSI, GTX 1660 Ti 6GB Gaming X,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,DUAL-GTX1660TI-O6G,Asus, GTX 1660 Ti 6GB Dual,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,06G-P4-1263-KR,EVGA, GTX 1660 Ti 6GB XC Gaming,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,GV-N166TWF2OC-6GD,Gigabyte, GTX 1660 Ti 6GB Windforce OC,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,GV-N166TOC-6GD,Gigabyte, GTX 1660 Ti 6GB OC,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,PH-GTX1660TI-O6G,Asus, GTX 1660 Ti 6GB Phoenix,57,76.1,216922,https://gpu.userbenchmark.com/Nvidia-GTX-1660-Ti/Rating/4037,317
+GPU,,Nvidia,GTX 1070-Ti,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,ROG-STRIX-GTX1070TI-A8G-GAMING,Asus, GTX 1070 Ti 8GB STRIX,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,GTX 1070 TI GAMING 8G,MSI, GTX 1070 Ti 8GB Gaming,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,08G-P4-5671-KR,EVGA, GTX 1070 Ti 8GB SC GAMING,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,GV-N107TGAMING OC-8GD,Gigabyte, GTX 1070 Ti 8GB Gaming OC,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,GTX 1070 TI AERO 8G,MSI, GTX 1070 Ti 8GB Aero,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,ROG-STRIX-GTX1070TI-8G-GAMING,Asus, GTX 1070 Ti 8GB ROG Strix Gaming,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,08G-P4-6775-KR,EVGA, GTX 1070 Ti 8GB FTW2 GAMING,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,GV-N107TGAMING-8GD,Gigabyte, GTX 1070 Ti 8GB Gaming,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,08G-P4-6678-KR,EVGA, GTX 1070 Ti 8GB FTW ULTRA SILENT GAMING,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,GTX 1070 TI TITANIUM 8G,MSI, GTX 1070 Ti 8GB TITANIUM,36,96.8,300874,https://gpu.userbenchmark.com/Nvidia-GTX-1070-Ti/Rating/3943,305
+GPU,,AMD,R9 Fury,68,63.6,12809,https://gpu.userbenchmark.com/AMD-R9-Fury/Rating/3509,302
+GPU,11247-00-40G,Sapphire, R9 Fury 4GB TRI-X OC,68,63.6,12809,https://gpu.userbenchmark.com/AMD-R9-Fury/Rating/3509,302
+GPU,100379NTOC+SR,Sapphire, R9 Fury 4GB TRI-X OC,68,63.6,12809,https://gpu.userbenchmark.com/AMD-R9-Fury/Rating/3509,302
+GPU,STRIX-R9FURY-DC3-4G-GAMING,Asus, R9 Fury 4GB Gaming,68,63.6,12809,https://gpu.userbenchmark.com/AMD-R9-Fury/Rating/3509,302
+GPU,R9-FURY-4TF9,XFX, R9 Fury 4GB,68,63.6,12809,https://gpu.userbenchmark.com/AMD-R9-Fury/Rating/3509,302
+GPU,11247-03-40G,Sapphire, R9 Fury 4GB NITRO,68,63.6,12809,https://gpu.userbenchmark.com/AMD-R9-Fury/Rating/3509,302
+GPU,,Nvidia,GTX 1080,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,08G-P4-6180-KR,EVGA, GTX 1080 8GB Founders Edition,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GTX1080-8G,Asus, GTX 1080 8GB Founders Edition,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GEFORCE GTX 1080 Founders Edition,Nvidia, GTX 1080 8GB Founders Edition,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,ZT-P10800A-10P,Nvidia, GTX 1080 8GB Founders Edition,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080D5X-8GD-B,Nvidia, GTX 1080 8GB Founders Edition,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,08G-P4-6183-KR,EVGA, GTX 1080 8GB SC GAMING ACX 3.0,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GTX 1080 GAMING X 8G,MSI, GTX 1080 8GB GAMING X,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080G1 GAMING-8GD,Gigabyte, GTX 1080 8GB G1 Gaming,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,08G-P4-6286-KR,EVGA, GTX 1080 8GB FTW ACX 3.0,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,STRIX-GTX1080-A8G-GAMING,Asus, GTX 1080 8GB ROG STRIX,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,STRIX-GTX1080-8G-GAMING,Asus, GTX 1080 8GB ROG STRIX,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,ZT-P10800C-10P,Zotac, GTX 1080 8GB AMP,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,ZT-P10800B-10P,Zotac, GTX 1080 8GB AMP Extreme,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080XTREME-8GD,Gigabyte, GTX 1080 8GB Xtreme,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080XTREME-8GD Premium Pack,Gigabyte, GTX 1080 8GB Xtreme Pack,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080XTREME W-8GD,Gigabyte, GTX 1080 8GB Xtreme Water,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,08G-P4-6686-KR,EVGA, GTX 1080 8GB FTW2,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080TTOC-8GD,Gigabyte, GTX 1080 8GB Turbo,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,GV-N1080WF3OC-8GD,Gigabyte, GTX 1080 8GB Windforce,31,105,848391,https://gpu.userbenchmark.com/Nvidia-GTX-1080/Rating/3603,300
+GPU,,Nvidia,RTX 3060,35,97.1,18581,https://gpu.userbenchmark.com/Nvidia-RTX-3060/Rating/4105,284
+GPU,,AMD,R9 390,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,R9 390 GAMING 8G,MSI, R9 390 8GB Gaming,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,R9-390P-D28M,XFX, R9 390 8GB Black,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,R9-390P-8256,XFX, R9 390 8GB Double Dissipation,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,R9-390P-F28M,XFX, R9 390 8GB Double Dissipation,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,R9-390P-8DF6,XFX, R9 390 8GB Black Nero,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,11244-01-20G,Sapphire, R9 390 8GB Nitro Tri-X OC +BP,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,11244-00-20G,Sapphire, R9 390 8GB Nitro Tri-X OC,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,STRIX-R9390-DC3OC-8GD5-GAMING,Asus, R9 390 8GB STRIX,86,50.5,78611,https://gpu.userbenchmark.com/AMD-R9-390/Rating/3481,283
+GPU,,Nvidia,GTX 780,90,47.5,48788,https://gpu.userbenchmark.com/Nvidia-GTX-780/Rating/2164,283
+GPU,,AMD,RX 470,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,Radeon RX 470 GAMING X 4G,MSI, RX 470 4GB Gaming X,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,Radeon RX 470 GAMING X 8G,MSI, RX 470 8GB Gaming X,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,11256-02-20G,Sapphire, RX 470 8GB NITRO+,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,11256-01-20G,Sapphire, RX 470 4GB NITRO+,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,11256-00-20G,Sapphire, RX 470 4GB,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,100407-4GOCL,Sapphire, RX 470 4GB,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,STRIX-RX470-O4G-GAMING,Asus, RX 470 4GB ROG STRIX OC,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,GV-RX470G1 GAMING-4GD,Gigabyte, RX 470 4GB G1 Gaming,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,AXRX 470 4GBD5-3DH/OC,PowerColor, RX 470 4GB Red Devil/Dragon,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,RX-470P4SFD5,XFX, RX 470 4GB Single Fan,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,RX-470P4LFB6,XFX, RX 470 4GB Black,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,Radeon RX 470 ARMOR 4G OC,MSI, RX 470 4GB ARMOR OC,101,41.1,79912,https://gpu.userbenchmark.com/AMD-RX-470/Rating/3640,273
+GPU,,AMD,R9 Nano,80,54.9,470,https://gpu.userbenchmark.com/SpeedTest/58413/AMD-Radeon-TM-R9-Fury,258
+GPU,R9NANO-4GB,Asus, R9 Nano 4GB,80,54.9,470,https://gpu.userbenchmark.com/SpeedTest/58413/AMD-Radeon-TM-R9-Fury,258
+GPU,R9NANO-4G-WHITE,Asus, R9 Nano 4GB White,80,54.9,470,https://gpu.userbenchmark.com/SpeedTest/58413/AMD-Radeon-TM-R9-Fury,258
+GPU,GV-R9NANO-4GD-B,Gigabyte, R9 Nano 4GB,80,54.9,470,https://gpu.userbenchmark.com/SpeedTest/58413/AMD-Radeon-TM-R9-Fury,258
+GPU,,AMD,RX 480,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,21260-00-20G,AMD, RX 480 8GB,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480M4BFA6,AMD, RX 480 4GB 1266 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,21260-01-20G,AMD, RX 480 4GB,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,Radeon RX 480 8G,AMD, RX 480 8GB,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480M8BBA6,XFX, RX 480 8GB 1328 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX480M8BFA6,XFX, RX 480 8GB 1288 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480P8DFA6,XFX, RX 480 8GB LED 1288 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480P836BM,XFX, RX 480 8GB XXX 1288 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480P8DBA6,XFX, RX 480 8GB Black 1338 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480P4JFC6,XFX, RX 480 4GB RS,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX-480P8LFB6,XFX, RX 480 8GB RS XXX 1288 MHz,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX480-8G,Asus, RX 480 8GB,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,11260-07-20G,Sapphire, RX 480 8GB NITRO+,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,11260-02-20G,Sapphire, RX 480 4GB NITRO+,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,100406NT+4GOCL,Sapphire, RX 480 4GB NITRO+,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,11260-01-20G,Sapphire, RX 480 8GB NITRO+,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,AXRX480 8GBD5-3DH/OC,PowerColor, RX 480 8GB Red Devil,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,Radeon RX 480 GAMING X 8G,MSI, RX 480 8GB Gaming X,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,Radeon RX 480 GAMING X 4G,MSI, RX 480 4GB Gaming X,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX 480 ARMOR 8G OC,MSI, RX 480 8GB Armor OC,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,RX 480 ARMOR 4G OC,MSI, RX 480 4GB Armor OC,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,STRIX-RX480-O8G-GAMING,Asus, RX 480 8GB ROG STRIX OC,88,48.3,206605,https://gpu.userbenchmark.com/AMD-RX-480/Rating/3634,241
+GPU,,Nvidia,GTX 1660,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,GV-N1660OC-6GD,Gigabyte, GTX 1660 6GB OC,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,06G-P4-1167-KR,EVGA, GTX 1660 6GB XC Ultra Gaming,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,GTX 1660 Ventus XS 6G OC,MSI, GTX 1660 6GB Ventus XS OC,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,GTX 1660 Gaming X 6G,MSI, GTX 1660 6GB Gaming X,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,06G-P4-1161-KR,EVGA, GTX 1660 6GB XC Black,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,PH-GTX1660-O6G,Asus, GTX 1660 6GB Phoenix,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,GV-N1660GAMING OC-6GD,Gigabyte, GTX 1660 6GB Gaming OC,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,ZT-T16600F-10L,Zotac, GTX 1660 6GB Compact,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,ZT-T16600K-10M,Zotac, GTX 1660 6GB Gaming Compact,63,68.5,151363,https://gpu.userbenchmark.com/Nvidia-GTX-1660/Rating/4038,223
+GPU,,Nvidia,GTX 1060-3GB,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,DUAL-GTX1060-O3G,Asus, GTX 1060 3GB Dual OC,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,ZT-P10610A-10L,Zotac, GTX 1060 3GB Mini,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,03G-P4-6160-KR,EVGA, GTX 1060 3GB Gaming,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,03G-P4-6162-KR,EVGA, GTX 1060 3GB SC Gaming,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GeForce GTX 1060 GAMING X 3G,MSI, GTX 1060 3GB Gaming X,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GTX 1060 GAMING X 3G,MSI, GTX 1060 3GB Gaming X,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GV-N1060WF2OC-3GD,Gigabyte, GTX 1060 3GB Windforce OC,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GV-N1060G1GAMING-3GD,Gigabyte, GTX 1060 3GB G1 Gaming,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GV-N1060IXOC-3GD,Gigabyte, GTX 1060 3GB Mini ITX OC,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GTX 1060 3GT OC,MSI, GTX 1060 3GB 3GT OC,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GTX 1060 ARMOR 3G OCV1,MSI, GTX 1060 3GB ARMOR 3G OCV1,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,GV-N1060G1GAM-3GD R2,Gigabyte, GTX 1060 3GB G1 Gaming R2,83,52.7,459419,https://gpu.userbenchmark.com/Nvidia-GTX-1060-3GB/Rating/3646,221
+GPU,,Nvidia,GTX 1060-6GB,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,06G-P4-6161-KR,EVGA, GTX 1060 6GB Gaming,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,06G-P4-6163-KR,EVGA, GTX 1060 6GB Gaming SC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GV-N1060G1GAMING-6GD,Gigabyte, GTX 1060 6GB G1 Gaming,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,ZT-P10600B-10M,Zotac, GTX 1060 6GB AMP,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,ZT-P10600A-10L,Zotac, GTX 1060 6GB Mini,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GeForce GTX 1060 GAMING X 6G,MSI, GTX 1060 6GB Gaming X,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,DUAL-GTX1060-O6G,Asus, GTX 1060 6GB Dual OC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GV-N1060WF2OC-6GD,Gigabyte, GTX 1060 6GB Windforce OC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,STRIX-GTX1060-O6G-GAMING,Asus, GTX 1060 6GB ROG STRIX OC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,TURBO-GTX1060-6G,Asus, GTX 1060 6GB TURBO,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,426018336-3736,Gainward,  GTX 1060 6GB Pheonix GS,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GeForce GTX 1060 ARMOR 6G OC,MSI, GTX 1060 6G Armor OC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GTX 1060 ARMOR 6G OCV1,MSI, GTX 1060 6G Armor OCV1,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,STRIX-GTX1060-6G-GAMING,Asus, GTX 1060 6GB ROG STRIX,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,VCGGTX10606PB,PNY, GTX 1060 6GB,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,VCGGTX10606XGPB-OC,PNY, GTX 1060 6GB OC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GV-N1060XTREME-6GD,Gigabyte, GTX 1060 6GB Xtreme Gaming,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,06G-P4-6267-KR,EVGA, GTX 1060 6GB Gaming SSC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GV-N1060G1GAM-6GD R2,Gigabyte, GTX 1060 6GB G1 Gaming R2,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GeForce GTX 1060 6GT,MSI, GTX 1060 6GB 6GT OCV1,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,GTX 1060 GAMING 6G,MSI, GTX 1060 6GB Gaming,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,DUAL-GTX1060-O6G,Asus, GTX 1060 6GB Dual OC,77,56.8,1138057,https://gpu.userbenchmark.com/Nvidia-GTX-1060-6GB/Rating/3639,212
+GPU,,AMD,RX 590,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,RX-590P8DFD6,XFX, RX 590 8GB Fatboy OC+,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,11289-01-20G,Sapphire, RX 590 8GB Nitro+,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,AXRX 590 8GBD5-DHD,PowerColor, RX 590 8GB Red Dragon,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,AXRX 590 8GBD5-3DH/OC,PowerColor, RX 590 8GB Red Devil,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,RADEON RX 590 ARMOR 8G OC,MSI, RX 590 8GB Armor OC,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,GV-RX590GAMING-8GD,Gigabyte, RX 590 8GB Gaming,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,11289-06-20G,Sapphire, RX 590 8GB Pulse,72,59.8,87982,https://gpu.userbenchmark.com/AMD-RX-590/Rating/4033,204
+GPU,,Nvidia,GTX 950,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,ZT-90601-10L,Zotac, GTX 950 2GB,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,ZT-90602-10M,Zotac, GTX 950 2GB OC,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,ZT-90603-10M,Zotac, GTX 950 2GB AMP!,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,02G-P4-2951-KR,EVGA, GTX 950 2GB SC,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,02G-P4-2958-KR,EVGA, GeForce GTX 950 2GB ACX 2.0,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,02G-P4-2957-KR,EVGA, GTX 950 2GB SSC ACX,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,STRIX-GTX950-DC2OC-2GD5-GAMING,Asus, GTX 950 2GB STRIX GAMING,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,GV-N950WF2OC-2GD,Gigabyte, GTX 950 2GB Windforce,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,GTX 950 GAMING 2G,MSI, GTX 950 2GB GAMING,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,GTX 950 2GD5 OC,MSI, GTX 950 2GB OC,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,GV-N950XTREME-2GD,Gigabyte, GTX 950 2GB XTREME,136,26,97224,https://gpu.userbenchmark.com/Nvidia-GTX-950/Rating/3510,191
+GPU,,AMD,RX 570,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX 570 ARMOR 4G OC,MSI, RX 570 4G Armor OC,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX 570 GAMING X 4G,MSI, RX 570 4GB Gaming X,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,GV-RX570GAMING-4GD,Gigabyte, RX 570 4GB Gaming,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,GV-RX570AORUS-4GD,Gigabyte, RX 570 4GB AORUS,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX 570 ARMOR 8G OC,MSI, RX 570 8G Armor OC,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,ROG-STRIX-RX570-O4G-GAMING,Asus, RX 570 4GB ROG Strix,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,AXRX 570 4GBD5-3DHD/OC,PowerColor, RX 570 4GB Red Dragon,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX-570P4DFD6,XFX, RX 570 4GB Twin,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX-570P427D6,XFX, RX 570 4GB Twin,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX-570P4DFDR,XFX, RX 570 4GB Twin,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,RX-570P8DFD6,XFX, RX 570 4GB Twin XXX,93,46.8,339844,https://gpu.userbenchmark.com/AMD-RX-570/Rating/3924,189
+GPU,,AMD,RX 580,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX 580 GAMING X 8G,MSI, RX 580 8GB Gaming X,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX 580 GAMING X 4G,MSI, RX 580 4GB Gaming X,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,GV-RX580XTRAORUS-8GD,Gigabyte, RX 580 8GB AORUS XTR,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX 580 ARMOR 8G OC,MSI, RX 580  8GB Armor OC,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX 580 ARMOR 4G OC,MSI, RX 580  4GB Armor OC,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,ROG-STRIX-RX580-O8G-GAMING,Asus, RX 580 8GB ROG Strix,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,GV-RX580GAMING-8GD,Gigabyte, RX 580 8GB Gaming,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,GV-RX580AORUS-8GD,Gigabyte, RX 580 8GB AORUS,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,11265-05-20G,Sapphire, RX 580 8GB Pulse,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX-580P4DFD6,XFX, RX 580 4GB OC+,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX-580P8DFD6,XFX, RX 580 8GB OC+,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX-580P8DBD6,XFX, RX 580 8GB Black OC+,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,RX-580P8DFD6,XFX, RX 580 8GB GTS XXX,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,AXRX 580 8GBD5-3DHDV2/OC,PowerColor, RX 580 8GB Red Dragon V2,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,11265-01-20G,Sapphire, RX 580 8GB Pulse Nitro+ RX,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,DUAL RX 580 4GB OC,Asus, RX 580 4GB Dual OC,81,54.5,696893,https://gpu.userbenchmark.com/AMD-RX-580/Rating/3923,180
+GPU,,AMD,R9 270X,129,27.9,66254,https://gpu.userbenchmark.com/AMD-R9-270X/Rating/2188,171
+GPU,11217-01-20G,Sapphire, R9 270X 2GB Dual-X Boost OC,129,27.9,66254,https://gpu.userbenchmark.com/AMD-R9-270X/Rating/2188,171
+GPU,11217-04-20G,Sapphire, R9 270X 4GB Dual-X Boost OC,129,27.9,66254,https://gpu.userbenchmark.com/AMD-R9-270X/Rating/2188,171
+GPU,GV-R927XOC-2GD,Gigabyte, R9 270X 2GB WINDFORCE,129,27.9,66254,https://gpu.userbenchmark.com/AMD-R9-270X/Rating/2188,171
+GPU,GV-R927XOC-4GD,Gigabyte, R9 270X 4GB WINDFORCE,129,27.9,66254,https://gpu.userbenchmark.com/AMD-R9-270X/Rating/2188,171
+GPU,R9270X-DC2T-2GD5,Asus, R9 270X 2GB DirectCU II,129,27.9,66254,https://gpu.userbenchmark.com/AMD-R9-270X/Rating/2188,171
+GPU,,Nvidia,GTX 1650,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,G1650VXS4C,MSI, GTX 1650 4GB Ventus XS OC,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,ZT-T16500F-10L,Zotac, GTX 1650 4GB OC Compact,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,PH-GTX1650-O4G,Asus, GTX 1650 4GB Phoenix,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,GV-N1650OC-4GD,Gigabyte, GTX 1650 4GB OC,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,GV-N1650IXOC-4GD,Gigabyte, GTX 1650 4GB Mini ITX OC,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,04G-P4-1153-KR,EVGA, GTX 1650 4GB XC Gaming,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,GTX 1650 Gaming X 4G,MSI, GTX 1650 4GB Gaming X,97,43,110896,https://gpu.userbenchmark.com/Nvidia-GTX-1650/Rating/4039,167
+GPU,ZT-T16510F-10L,Zotac, GTX 1650 Super 4GB Gaming,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,TUF-GTX1650S-O4G-GAMING,Asus, GTX 1650 Super 4GB TUF Gaming,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,04G-P4-1357-KR,EVGA, GTX 1650 Super 4GB SC Ultra,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,GTX 1650 Super Ventus XS OC,MSI, GTX 1650 Super 4GB Ventus XS,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,GV-N165SWF2OC-4GD,Gigabyte, GTX 1650 Super 4GB 2x Windforce,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,GTX 1650 Super Gaming X,MSI, GTX 1650 Super 4GB Gaming X,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,PH-GTX1650S-O4G,Asus, GTX 1650 Super 4GB Phoenix,71,60.1,91708,https://gpu.userbenchmark.com/Nvidia-GTX-1650S-Super/Rating/4058,166
+GPU,,Nvidia,GTX 1050-Ti,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,04G-P4-6253-KR,EVGA, GTX 1050 Ti 4GB SC Single Fan,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,04G-P4-6251-KR,EVGA, GTX 1050 Ti 4GB Gaming Single Fan,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,04G-P4-6255-KR,EVGA, GTX 1050 Ti 4GB SSC GAMING ACX 3.0,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GTX 1050 TI 4G OC,MSI, GTX 1050 Ti 4GB OC,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GTX 1050 TI 4GT OC,MSI, GTX 1050 Ti 4GB OC Twin,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GV-N105TOC-4GD,Gigabyte, GTX 1050 Ti 4GB OC,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,ZT-P10510A-10L,Zotac, GTX 1050 Ti 4GB Mini,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,ZT-P10510B-10L,Zotac, GTX 1050 Ti 4GB Twin,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU, GV-N105TWF2OC-4GD,Gigabyte, GTX 1050 Ti 4GB Twin,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GeForce GTX 1050 TI GAMING X 4G,MSI, GTX 1050 Ti 4GB GAMING X,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,EX-GTX1050TI-4G,Asus, GTX 1050 Ti 4GB Expedition,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,STRIX-GTX1050TI-O4G-GAMING,Asus, GTX 1050 Ti 4GB ROG STRIX,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,04G-P4-6258-KR,EVGA, GTX 1050 Ti 4GB FTW GAMING ACX 3.0,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GV-N105TD5-4GD,Gigabyte, GTX 1050 Ti 4GB 1430 MHz,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GV-N105TG1GAMING-4GD,Gigabyte, GTX 1050 Ti 4GB G1 GAMING,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,VCGGTX1050T4PB,PNY, GTX 1050 Ti 4GB Single,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,Cerberus-GTX1050Ti-O4G,Asus, GTX 1050 Ti 4GB Cerberus OC,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,GV-N105TOC-4GL,Gigabyte, GTX 1050 Ti 4GB OC Low Profile,125,31,771156,https://gpu.userbenchmark.com/Nvidia-GTX-1050-Ti/Rating/3649,153
+GPU,,Nvidia,GTX 1070,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GTX1070-8G,Asus, GTX 1070 8GB Founders Edition,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,ZT-P10700A-10P,Nvidia, GTX 1070 8GB Founders Edition ,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,VCGGTX10708PB-CG,Nvidia, GTX 1070 8GB Founders Edition,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GV-N1070D5-8GD-B,Nvidia, GTX 1070 8GB Founders Edition,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,MSI GeForce GTX 1070 Founders Edition,Nvidia, GTX 1070 Founders Edition,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-6170-KR,EVGA, GTX 1070 8GB Founders Edition,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GeForce GTX 1070 GAMING X 8G,MSI, GTX 1070 8GB GAMING X,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GTX 1070 GAMING X 8G,MSI, GTX 1070 8GB GAMING X,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GV-N1070G1 GAMING-8GD,Gigabyte, GTX 1070 8GB G1 Gaming,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GeForce GTX 1070 ARMOR 8G OC,MSI, GTX 1070 8GB ARMOR OC,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-6173-KR,EVGA, GTX 1070 8GB SC GAMING,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,STRIX-GTX1070-O8G-GAMING,Asus, GTX 1070 8GB STRIX OC,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-6276-KR,EVGA, GTX 1070 8GB FTW Gaming,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,STRIX-GTX1070-8G-GAMING,Asus, GTX 1070 8GB STRIX,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,ZT-P10700B-10P,Zotac, GTX 1070 8GB AMP! Extreme,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GV-N1070WF2OC-8GD,Gigabyte, GTX 1070 8GB Windforce OC,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GeForce GTX 1070 GAMING 8G,MSI, GTX 1070 8GB Gaming,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,DUAL-GTX1070-O8G,Asus, GTX 1070 8GB Dual OC,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-5173-KR,EVGA, GTX 1070 8GB SC Gaming ACX 3.0,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-6171-KR,EVGA, GTX 1070 8GB Gaming ACX 3.0,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-6274-KR,EVGA, GTX 1070 8GB FTW DT Gaming,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,426018336-3682,Gainward, GTX 1070 8GB Phoenix GS,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GV-N1070XTREME-8GD,Gigabyte, GTX 1070 8GB XTREME,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,TURBO-GTX1070-8G,Asus, GTX 1070 8GB Turbo,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GeForce GTX 1070 SEA HAWK X,MSI, GTX 1070 8GB SEA HAWK X,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,GV-N1070IXOC-8GD,Gigabyte, GTX 1070 8GB Mini ITX OC,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,08G-P4-6676-KR,EVGA, GTX 1070 8GB FTW2,53,79.7,1058005,https://gpu.userbenchmark.com/Nvidia-GTX-1070/Rating/3609,142
+GPU,,Nvidia,GTX 1050,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,ZT-P10500A-10L,Zotac, GTX 1050 2GB Mini,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,GTX 1050 2G OC,MSI, GTX 1050 2GB OC,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,GTX 1050 2GT OC,MSI, GTX 1050 2GB TWIN OC,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,GTX 1050 GAMING X 2G,MSI, GTX 1050 2GB GAMING X,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,GV-N1050OC-2GD,Gigabyte, GTX 1050 2GB OC,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,02G-P4-6152-KR,EVGA, GTX 1050 2GB SC GAMING,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,GV-N1050D5-2GD,Gigabyte, GTX 1050 2GB OC Single,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,GV-N1050WF2OC-2GD,Gigabyte, GTX 1050 2GB Windforce,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,EX-GTX1050-2G,Asus, GTX 1050 2GB Expedition,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,02G-P4-6154-KR,EVGA, GTX 1050 2GB SSC GAMING,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,VCGGTX10502PB,PNY, GTX 1050 2GB,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,02G-P4-6150-KR,EVGA, GTX 1050 2GB GAMING,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
+GPU,PH-GTX1050-2G,Asus, GTX 1050 2GB Phoenix,133,27.1,213521,https://gpu.userbenchmark.com/Nvidia-GTX-1050/Rating/3650,131
